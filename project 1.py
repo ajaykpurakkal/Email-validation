@@ -1,19 +1,3 @@
-# email=input("Enter your email: ")
-# first,last=email.split("@")
-#
-# list1=[" ",',', '.', ':', ';', '(', ')', '[', ']', '{', '}', '_', '__', "'", '"', '\\', '...']
-# valid_mail=True
-#
-# for elements in first:
-#     if elements in list1:
-#         valid_mail=False
-#         break
-#
-# if valid_mail and  last=="gmail.com":
-#     print("Right Email")
-# else:
-#     print("Wrong Email")
-
 
 Email=input("Enter a Email: ")
 k,j,d=0,0,0
